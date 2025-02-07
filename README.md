@@ -1,5 +1,6 @@
 # fSpy Maya importer (Maya 2022-2025 PySide2/PySide6)
 fSpy importer for Maya to import camera data created with fSpy
+
 fSpyで作成したカメラデータをMayaにインポートするためのPythonスクリプト
 
 # Features
